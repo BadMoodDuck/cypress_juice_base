@@ -1,0 +1,8 @@
+{
+  "baseUrl": "http://127.0.0.1:3000",
+  "viewportWidth": 1440,
+  "viewportHeight": 900,
+  "defaultCommandTimeout": 5000,
+  "experimentalStudio": true,
+  "experimentalSessionSupport": true
+}
